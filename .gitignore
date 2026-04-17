@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+
+# Hugging Face / model artifacts
+models_cache/
+offload/
+checkpoints/
+
+# Data
+data/raw/
+data/interim/
+data/processed/
+
+# Outputs / logs
+outputs/
+logs/
+
+# OS/editor junk
+.DS_Store
+.vscode/
