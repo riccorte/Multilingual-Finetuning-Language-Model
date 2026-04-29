@@ -22,6 +22,25 @@ The main questions are:
 - Are there tradeoffs, such as examples where the fine-tuned model performs worse than the baseline?
 
 ---
+## Results
+
+### Training Loss
+
+![Training vs Evaluation Loss](figures/training_loss.png)
+
+### Exact-match comparison
+
+![Exact-match comparison](figures/exact_match_by_dataset.png)
+
+### Improved and worsened examples
+
+![Improved vs worsened examples](figures/improved_vs_worsened.png)
+
+### Response length comparison
+
+![Response length comparison](figures/response_length_comparison.png)
+
+---
 
 ## Repository Structure
 
