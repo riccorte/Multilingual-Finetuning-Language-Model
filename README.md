@@ -46,9 +46,6 @@ The main questions are:
 
 ![Unseen dataset Bayesian Analysis Results](figures/spa_bayesian_plots.png)
 
----
-![Project Postcard](figures/multilingual_RC_presentation2.png)
----
 
 ## Repository Structure
 
@@ -65,3 +62,7 @@ The main questions are:
 │
 ├── .gitignore
 └── README.md
+
+---
+![Project Postcard](figures/multilingual_RC_presentation2.png)
+---
