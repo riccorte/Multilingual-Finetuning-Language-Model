@@ -47,6 +47,8 @@ The main questions are:
 ![Unseen dataset Bayesian Analysis Results](figures/spa_bayesian_plots.png)
 
 ---
+![Project Postcard](figures/multilingual_RC_presentation.png)
+---
 
 ## Repository Structure
 
