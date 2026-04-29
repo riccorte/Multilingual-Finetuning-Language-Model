@@ -37,11 +37,8 @@ The main questions are:
 
 ![Answers length error](figures/response_length_comparison.png)
 
-### Posterior comparison
 
-![Posterior Shape comparison](figures/posterior_comparison.png)
-
-### Posterior comparison
+### Semantic Similaroty Posterior comparison
 
 ![Semantic Similarity Posterior Shape comparison](figures/posterior_comparison.png)
 
