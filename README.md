@@ -28,17 +28,26 @@ The main questions are:
 
 ![Training vs Evaluation Loss](figures/training_loss.png)
 
-### Exact-match comparison
-
-![Exact-match comparison](figures/exact_match_by_dataset.png)
-
 ### Improved and worsened examples
 
 ![Improved vs worsened examples](figures/improved_vs_worsened.png)
 
+
 ### Response length comparison
 
-![Response length comparison](figures/response_length_comparison.png)
+![Answers length error](figures/response_length_comparison.png)
+
+### Posterior comparison
+
+![Posterior Shape comparison](figures/posterior_comparison.png)
+
+### Posterior comparison
+
+![Semantic Similarity Posterior Shape comparison](figures/posterior_comparison.png)
+
+### Unseen Language Bayesian Analysis 
+
+![Unseen dataset Bayesian Analysis Results](figures/spa_bayesian_plots.png)
 
 ---
 
